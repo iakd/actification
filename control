@@ -1,0 +1,9 @@
+Package: de.iakdev.actification
+Name: Actification
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator (>= 1.9.5)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Send notifications from Activator
+Maintainer: iakd
+Author: iakd
+Section: Tweaks
