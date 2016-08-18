@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NotificationTitle</key>
+	<string>Example Notification</string>
+	<key>NotificationContent</key>
+	<string>This is an example message sent with Actification</string>
+	<key>NotificationOrigin</key>
+	<string>com.apple.MobileSMS</string>
+</dict>
+</plist>
